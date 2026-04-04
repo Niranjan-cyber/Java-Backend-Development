@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "tests"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Career\\Telusko Java Development\\4 . Junit5\\junit-04\\lib\\junit-platform-console-standalone-1.13.0-M3.jar"
+    ]
+}
